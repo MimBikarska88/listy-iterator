@@ -1,0 +1,16 @@
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\bin\Debug\net5.0\ListyIterator.exe
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\bin\Debug\net5.0\ListyIterator.deps.json
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\bin\Debug\net5.0\ListyIterator.runtimeconfig.json
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\bin\Debug\net5.0\ListyIterator.runtimeconfig.dev.json
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\bin\Debug\net5.0\ListyIterator.dll
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\bin\Debug\net5.0\ref\ListyIterator.dll
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\bin\Debug\net5.0\ListyIterator.pdb
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.csprojAssemblyReference.cache
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.AssemblyInfo.cs
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.dll
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ref\ListyIterator.dll
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.pdb
+C:\Users\Mimi\RiderProjects\ListyIterator\ListyIterator\obj\Debug\net5.0\ListyIterator.genruntimeconfig.cache
